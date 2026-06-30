@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 40" fill="none">
+  <rect width="40" height="40" rx="10" fill="url(#lg)"/>
+  <defs>
+    <linearGradient id="lg" x1="0" y1="0" x2="40" y2="40">
+      <stop offset="0%" stop-color="#2563EB"/>
+      <stop offset="100%" stop-color="#7C3AED"/>
+    </linearGradient>
+  </defs>
+  <text x="20" y="27" text-anchor="middle" font-family="Arial,sans-serif" font-size="20" font-weight="800" fill="#fff">GH</text>
+  <text x="52" y="27" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1e293b">HashCloud <tspan fill="#2563EB">GEO</tspan></text>
+</svg>

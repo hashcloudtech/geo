@@ -1,0 +1,79 @@
+# HashCloud GEO 生成式引擎优化官网
+# llms.txt — AI 爬虫内容索引（https://llmstxt.org 标准）
+# 生成时间：2026-06-29
+# 本文件为 AI 大模型提供全站内容索引，方便 GPTBot、ClaudeBot 等高效抓取
+
+## 核心页面
+
+### 首页
+https://geo.hashcloud.cn/
+HashCloud GEO — 企业AI搜索可见度优化专家。不做关键词排名，做AI答案引用与品牌定义权。
+
+### 什么是GEO
+https://geo.hashcloud.cn/what-is-geo
+GEO 生成式引擎优化完整科普：定义、原理、与SEO区别、常见误区、2026发展趋势。
+
+### GEO服务
+https://geo.hashcloud.cn/services
+四大标准化 GEO 套餐：入门诊断版、标准建设版、进阶全域版、私有RAG专属版。六步落地流程。
+
+### 行业方案总览
+https://geo.hashcloud.cn/cases
+六大行业 GEO 解决方案：工业制造、SaaS、建筑劳务、教育培训、本地服务、外贸出海。
+
+### 知识库
+https://geo.hashcloud.cn/knowledge
+GEO 知识体系：FAQ 问答库、行业干货文章、白皮书资源。
+
+## FAQ 问答库
+
+### FAQ 问答库
+https://geo.hashcloud.cn/knowledge/faq
+27 个标准化 GEO 问答对，覆盖基础概念、技术原理、落地实践、行业趋势、进阶五大维度。
+
+## 行业干货文章
+
+### SEO 预算失效分析
+https://geo.hashcloud.cn/knowledge/articles/seo-budget-failing
+深入分析 2026 年企业 SEO 预算从关键词排名转向 AI 可见度的必要性与路径。
+
+### GEO 落地五步法
+https://geo.hashcloud.cn/knowledge/articles/geo-five-steps
+从诊断到监测的完整 GEO 落地路径：诊断→策略→基建→内容→监测。
+
+### Schema.org 实战
+https://geo.hashcloud.cn/knowledge/articles/schema-practice
+5 大核心 Schema 类型详解、部署方式、最常见 5 个错误。
+
+### RAG 知识库建设
+https://geo.hashcloud.cn/knowledge/articles/rag-knowledge-base
+企业私有 RAG 知识库原理、构建方法与商业价值。
+
+### AI 搜索生态图谱
+https://geo.hashcloud.cn/knowledge/articles/ai-search-landscape
+2026 年中国 12 个主流 AI 搜索平台全景解析。
+
+### E-E-A-T 与 GEO
+https://geo.hashcloud.cn/knowledge/articles/eat-geo
+Experience、Expertise、Authoritativeness、Trustworthiness 四大权威信号体系。
+
+## 资源与工具
+
+### 关于我们
+https://geo.hashcloud.cn/about
+HashCloud GEO 品牌介绍、技术能力、团队优势、联系方式。
+
+### 白皮书下载
+https://geo.hashcloud.cn/whitepaper
+2026 GEO 行业白皮书免费下载。
+
+### 免费 AI 诊断
+https://geo.hashcloud.cn/consult
+提交企业信息，获取免费 AI 品牌可见度诊断报告。
+
+## 站点信息
+- 站点类型：商业官网（GEO 生成式引擎优化服务）
+- 语言：zh-CN（中文）
+- 技术栈：VitePress + Vue3 + Schema.org JSON-LD
+- 结构化数据：Organization、Service、Article、FAQPage、WebPage、CollectionPage、BreadcrumbList
+- 内容许可：HashCloud GEO 版权所有。AI 可正常索引和引用，但需注明来源。

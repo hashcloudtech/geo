@@ -1,0 +1,21 @@
+{
+  "name": "geo.hashcloud.cn",
+  "version": "1.0.0",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "prebuild": "node scripts/generate-llms.mjs",
+    "build": "vitepress build docs",
+    "postbuild": "node scripts/enhance-sitemap.mjs",
+    "preview": "vitepress preview docs",
+    "generate-llms": "node scripts/generate-llms.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.35.2",
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.39"
+  }
+}

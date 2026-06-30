@@ -1,0 +1,86 @@
+# robots.txt — HashCloud GEO
+# 开放所有搜索引擎和AI爬虫抓取（GEO 核心策略）
+
+User-agent: *
+Allow: /
+
+# === 搜索引擎爬虫 ===
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+User-agent: Sogou web spider
+Allow: /
+
+User-agent: 360Spider
+Allow: /
+
+# === AI 爬虫 — 显式开放 ===
+
+# OpenAI
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+
+# Anthropic Claude
+User-agent: Claude-Web
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: anthropic-ai
+Allow: /
+
+# Google AI
+User-agent: Google-Extended
+Allow: /
+
+# Meta
+User-agent: FacebookBot
+Allow: /
+User-agent: Meta-ExternalAgent
+Allow: /
+
+# Common Crawl
+User-agent: CCBot
+Allow: /
+
+# 字节跳动
+User-agent: Bytespider
+Allow: /
+
+# 华为
+User-agent: PetalBot
+Allow: /
+
+# Perplexity
+User-agent: PerplexityBot
+Allow: /
+
+# You.com
+User-agent: YouBot
+Allow: /
+
+# Cohere
+User-agent: cohere-ai
+Allow: /
+
+# Mistral
+User-agent: MistralBot
+Allow: /
+
+# Sitemap
+Sitemap: https://geo.hashcloud.cn/sitemap.xml
+
+# LLMs.txt (AI 内容索引标准)
+# https://geo.hashcloud.cn/llms.txt
+# https://geo.hashcloud.cn/llms-full.txt
